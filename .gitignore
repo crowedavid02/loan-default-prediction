@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Envs / metadata
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data / models
+data/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.hdf5
