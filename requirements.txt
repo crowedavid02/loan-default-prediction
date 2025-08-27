@@ -1,0 +1,14 @@
+# Core
+pandas
+numpy
+scikit-learn
+scipy
+
+# Imbalance & explainability
+imbalanced-learn
+shap
+
+# Viz & notebooks
+matplotlib
+seaborn
+jupyter
