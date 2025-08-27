@@ -13,7 +13,7 @@ It demonstrates practical ML for **credit risk**, with emphasis on *minimising f
 
 > Business aim: Reduce undetected defaulters (FN) while keeping FPR commercially viable and maintaining fairness.
 
-## 🗂Repo Structure
+## Repo Structure
 ```
 .
 ├── notebooks/                 # Jupyter Notebooks (add your .ipynb here)
